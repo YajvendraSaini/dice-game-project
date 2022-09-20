@@ -1,0 +1,31 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background: #5cb8e4;
+  font-family: "Bungee", cursive;
+}
+
+h1 {
+  margin: 0px; 
+  color: #181818;
+  font-weight: 400;
+  font-size: 95px;
+}
+
+p {
+  font-size: 32px;
+  color: #FFF066;
+}
+
+.dice{
+    margin: 5px 40px;
+}
